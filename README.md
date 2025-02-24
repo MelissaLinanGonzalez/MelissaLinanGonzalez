@@ -19,13 +19,6 @@
 
 ---
 
-### 📊 Mis estadísticas de GitHub
-
-![Melissa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Melissa&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melissa&layout=compact&theme=radical)
-
-
----
-
 ### ✨ Frase motivadora
 
 > "La programación es el arte de crear un universo donde todo es posible y donde cada problema tiene una solución elegante."
