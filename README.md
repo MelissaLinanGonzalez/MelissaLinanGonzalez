@@ -1,4 +1,4 @@
-## 👋 ¡Hola, soy Melissa!  
+## <h1 align="center">¡Hola, soy Melissa! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
 ### 🚀 Estudiante de Desarrollo de Aplicaciones Web
 
 ---
@@ -19,7 +19,7 @@
 
 ---
 
-### ✨ Frase motivadora
+### ✨ Algo para motivarnos ❤️‍🔥
 
 > "La programación es el arte de crear un universo donde todo es posible y donde cada problema tiene una solución elegante."
 
