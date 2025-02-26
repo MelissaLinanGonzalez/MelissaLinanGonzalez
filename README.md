@@ -5,13 +5,13 @@
 
 ### 💻 Sobre mí
 
-📚 Actualmente estoy en el primer año del Ciclo Superior "Desarrollo de Aplicaciones Multiplataformas". Me apasiona el desarrollo web y la programación en general. 
+📚 Actualmente estoy en el primer año del Ciclo Superior "Desarrollo de Aplicaciones Multiplataformas". Me apasiona el desarrollo web y la programación en general. Adicionalmente, soy Técnico Superior en Automatización y Robótica Industrial 🤖.
 
 🎯 A corto plazo, me gustaría dominar **Java** y **Python**, aunque también disfruto mucho trabajando con **HTML, CSS y JavaScript**. 
 
 ---
 
-### 🚀 Tecnologías en las que estoy trabajando
+### 🚀 Tecnologías que estoy aprendiendo
 
 🌐 **Frontend:** HTML5, CSS, SASS, JavaScript  
 ⚙️ **Backend:** Java, Python, PHP  
