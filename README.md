@@ -18,6 +18,14 @@
 📚 **Frameworks:** Symfony (aprendiendo)
 
 ---
+[![](https://github-readme-stats.vercel.app/api?username=MelissaLinanGonzalez&show_icons=true&bg_color=ffffff&title_color=00aaff&text_color=0044cc&icon_color=00ffff&hide_border=true&border_radius=10&hide=issues,contribs)](https://github.com/MelissaLinanGonzalez)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=MelissaLinanGonzalez&layout=compact&bg_color=ffffff&title_color=00aaff&text_color=0044cc&icon_color=00ffff&hide_border=true&border_radius=10)](https://github.com/MelissaLinanGonzalez)
+
+
+
+
+
+---
 
 ### ✨ Algo para motivarnos ❤️‍🔥
 
