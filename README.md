@@ -15,7 +15,7 @@
 
 🌐 **Frontend:** HTML5, CSS, SASS, JavaScript  
 ⚙️ **Backend:** Java, Python, PHP  
-📚 **Frameworks:** Symfony (aprendiendo)
+📚 **Frameworks:** Symfony, Bootstrap
 
 ---
 [![](https://github-readme-stats.vercel.app/api?username=MelissaLinanGonzalez&show_icons=true&bg_color=ffffff&title_color=00aaff&text_color=0044cc&icon_color=00ffff&hide_border=true&border_radius=10&hide=issues,contribs)](https://github.com/MelissaLinanGonzalez)
