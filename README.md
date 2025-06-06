@@ -65,7 +65,7 @@ Me apasiona el desarrollo web y la programación.
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" title="Gmail"/>
 </a>
 
-<a href="https://www.linkedin.com/in/melissalinangonzalez/" target="_blank">
+<a href="www.linkedin.com/in/melissalinangonzalez-897b97280" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" title="LinkedIn"/>
 </a>
 
