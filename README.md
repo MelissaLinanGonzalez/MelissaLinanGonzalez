@@ -61,17 +61,14 @@ Me apasiona el desarrollo web y la programación.
 
 ### 📫 Contacto
 
-<p align="center">
-  <a href="https://[www.linkedin.com/in/tuusuario](https://www.linkedin.com/in/melissa-li%C3%B1%C3%A1n-gonz%C3%A1lez)" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" title="LinkedIn"/>
-  </a>
-  <a href="mailto:melissalinangonzalezo@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" title="Gmail"/>
-  </a>
-  <a href="melissalinangonzalez.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-Web-ff69b4?style=for-the-badge&logo=about.me&logoColor=white"/>
-  </a>
-</p>
+<a href="mailto:melissalinangonzalez@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" title="Gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/melissa-liñán-gonzález/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" title="LinkedIn"/>
+</a>
+
 
 ---
 
