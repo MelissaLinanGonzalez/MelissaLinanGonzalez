@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola, soy Melissa! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
+<h3 align="center">💡 Apasionada por la tecnología, la automatización y el desarrollo web</h3>
 <h3 align="center">🚀 Estudiante de Desarrollo de Aplicaciones Web</h3>
 
 ---
@@ -58,8 +58,25 @@ Me apasiona el desarrollo web y la programación.
 
 ---
 
+
+### 📫 Contacto
+
+<p align="center">
+  <a href="https://[www.linkedin.com/in/tuusuario](https://www.linkedin.com/in/melissa-li%C3%B1%C3%A1n-gonz%C3%A1lez)" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" title="LinkedIn"/>
+  </a>
+  <a href="mailto:melissalinangonzalezo@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" title="Gmail"/>
+  </a>
+  <a href="melissalinangonzalez.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-Web-ff69b4?style=for-the-badge&logo=about.me&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ### ✨ Algo para motivarnos ❤️‍🔥
 
-> "La programación es el arte de crear un universo donde todo es posible y donde cada problema tiene una solución elegante."
+> "La programación es el arte de crear un universo donde todo es posible y donde cada problema tiene una solución elegante... y yo estoy construyendo el mío, línea a línea 💻✨"
 
 ---
