@@ -69,6 +69,11 @@ Me apasiona el desarrollo web y la programación.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" title="LinkedIn"/>
 </a>
 
+<a href="https://melissalinangonzalez.github.io" target="_blank">
+  <img src="./favicon.png" width="40" title="GitHub Pages"/>
+</a>
+
+
 
 
 ---
