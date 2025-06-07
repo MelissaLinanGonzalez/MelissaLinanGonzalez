@@ -24,6 +24,10 @@ Me apasiona el desarrollo web y la programación.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" title="SASS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+</p>
+
+#### 🧩 **Frameworks**
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" title="Angular"/>
 </p>
@@ -40,7 +44,6 @@ Me apasiona el desarrollo web y la programación.
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="40" title="MariaDB"/>
-
 </p>
 
 #### 🛠️ **Herramientas**
@@ -50,17 +53,17 @@ Me apasiona el desarrollo web y la programación.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="Visual Studio Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" title="IntelliJ IDEA"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" width="40" title="WebStorm"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" title="Postman"/>
 </p>
 
 ---
 
 ### 📈 GitHub Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=MelissaLinanGonzalez&show_icons=true&bg_color=ffffff&title_color=00aaff&text_color=0044cc&icon_color=00ffff&hide_border=true&border_radius=10&hide=issues,contribs)](https://github.com/MelissaLinanGonzalez)
+[![](https://github-readme-stats.vercel.app/api?username=MelissaLinanGonzalez&show_icons=true&bg_color=ffffff&title_color=00aaff&text_color=0044cc&icon_color=00ffff&hide_border=true&border_radius=10&hide=issues,contribs)](https://github.com/MelissaLinanGonzalez)  
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=MelissaLinanGonzalez&layout=compact&bg_color=ffffff&title_color=00aaff&text_color=0044cc&icon_color=00ffff&hide_border=true&border_radius=10)](https://github.com/MelissaLinanGonzalez)
 
 ---
-
 
 ### 📫 Contacto
 
@@ -77,10 +80,6 @@ Me apasiona el desarrollo web y la programación.
     <img src="https://raw.githubusercontent.com/MelissaLinanGonzalez/MelissaLinanGonzalez/main/favico.png" width="40" title="GitHub Pages"/>
   </a>
 </p>
-
-
-
-
 
 ---
 
