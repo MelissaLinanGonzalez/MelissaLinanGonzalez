@@ -61,17 +61,20 @@ Me apasiona el desarrollo web y la programación.
 
 ### 📫 Contacto
 
-<a href="mailto:melissalinangonzalez@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" title="Gmail"/>
-</a>
+<p align="center">
+  <a href="mailto:melissalinangonzalez@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" title="Gmail"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/melissalinangonzalez-897b97280" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" title="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://melissalinangonzalez.github.io" target="_blank">
+    <img src="https://raw.githubusercontent.com/MelissaLinanGonzalez/MelissaLinanGonzalez/main/favico.png" width="40" title="GitHub Pages"/>
+  </a>
+</p>
 
-<a href="www.linkedin.com/in/melissalinangonzalez-897b97280" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" title="LinkedIn"/>
-</a>
-
-<a href="https://melissalinangonzalez.github.io" target="_blank">
-  <img src="./favicon.png" width="40" title="GitHub Pages"/>
-</a>
 
 
 
