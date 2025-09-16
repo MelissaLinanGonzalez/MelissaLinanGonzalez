@@ -6,7 +6,7 @@
 
 ### 💻 Sobre mí
 
-📚 Actualmente curso el primer año del Ciclo Superior **Desarrollo de Aplicaciones Multiplataformas**.  
+📚 Actualmente curso el segundo año del Ciclo Superior **Desarrollo de Aplicaciones Multiplataformas**.  
 Me apasiona el desarrollo web y la programación.  
 🔧 También soy Técnico Superior en Automatización y Robótica Industrial 🤖.
 
