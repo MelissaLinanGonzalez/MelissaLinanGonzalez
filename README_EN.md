@@ -1,23 +1,23 @@
-<a href="README_EN.md">🇬🇧 English</a>
-<h1 align="center">¡Hola, soy Melissa! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">💡 Apasionada por la tecnología, la automatización y el desarrollo web</h3>
-<h3 align="center">🚀 Estudiante de Desarrollo de Aplicaciones Multiplataformas</h3>
+<a href="README.md">🇪🇸 Español</a>
+<h1 align="center">Hi there, I'm Melissa! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center">💡 Passionate about technology, automation, and web development</h3>
+<h3 align="center">🚀 Higher Technician Student in Cross-Platform Application Development</h3> 
 
 ---
 
-### 💻 Sobre mí
+### 💻 About Me
 
-📚 Actualmente curso el segundo año del Ciclo Superior **Desarrollo de Aplicaciones Multiplataformas**.  
-Me apasiona el desarrollo web y la programación.  
-🔧 También soy Técnico Superior en Automatización y Robótica Industrial 🤖.
+📚 I’m currently in my second year of the **Higher Degree in Cross-Platform Application Development**.  
+I’m passionate about web development and programming.  
+🔧 I also hold a Higher Technician degree in **Automation and Industrial Robotics** 🤖.
 
-🎯 Mis metas a corto plazo:
-- Dominar **Java** y **Python**
-- Profundizar en **HTML, CSS, JS** y frameworks modernos
+🎯 My short-term goals:
+- Master **Java** and **Python**
+- Deepen my knowledge of **HTML, CSS, JS**, and modern frameworks
 
 ---
 
-### 🚀 Tecnologías y herramientas
+### 🚀 Technologies and Tools
 
 #### 🖼️ **Frontend**
 <p>
@@ -42,14 +42,14 @@ Me apasiona el desarrollo web y la programación.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" title="Spring"/>
 </p>
 
-#### 🛢️ **Bases de Datos**
+#### 🛢️ **Databases**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="40" title="MariaDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
 </p>
 
-#### 🛠️ **Herramientas**
+#### 🛠️ **Tools**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
@@ -69,7 +69,7 @@ Me apasiona el desarrollo web y la programación.
 
 ---
 
-### 📫 Contacto
+### 📫 Contact
 
 <p align="center">
   <a href="mailto:melissalinangonzalez@gmail.com">
@@ -87,8 +87,6 @@ Me apasiona el desarrollo web y la programación.
 
 ---
 
-### ✨ Algo para motivarnos ❤️‍🔥
+### ✨ Something to Keep Us Motivated ❤️‍🔥
 
-> "La programación es el arte de crear un universo donde todo es posible y donde cada problema tiene una solución elegante... y yo estoy construyendo el mío, línea a línea 💻✨"
-
----
+> "Programming is the art of creating a universe where everything is possible, and every problem has an elegant solution... and I'm building mine, line by line 💻✨"
